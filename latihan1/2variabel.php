@@ -15,6 +15,7 @@
     $nilai =9.99;//doubel
     $lulus =false;//boolean(true or false)
     $lulus2 ="true";
+    $array =['a']
     //gettype($variabelnya) => adalah fungsi dari PHP untuk mengecek tipe data
 ?>
 

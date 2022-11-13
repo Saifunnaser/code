@@ -4,4 +4,8 @@ echo"<br>";
 echo"Tempatnya curhat masalah coding!";
 echo"<hr>";
 
+
+/*
+echo""comment multi line
+*/
 ?>
